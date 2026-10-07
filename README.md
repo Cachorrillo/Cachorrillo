@@ -1,5 +1,5 @@
 # ¡Hola! Soy Ví ✨ (Cachorrillo)
-### 👩‍💻 Estudiante de Ingeniería del Software en Formación | Con pasión por el Desarrollo, las Redes, bases de datos y la Infraestructura
+###  Estudiante de Ingeniería del Software en Formación | Con pasión por el Desarrollo, las Redes, bases de datos y la Infraestructura
 
 ¡Bienvenid@s a mi espacio de código! Soy estudiante de Ingeniería del Software en la Universidad Latina de Costa Rica. Me fascina desarmar problemas lógicos complejos, optimizar código y diseñar soluciones tecnológicas eficientes que ayuden a las personas a mejorar sus procesos.
 
