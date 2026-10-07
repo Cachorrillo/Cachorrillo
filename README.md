@@ -27,7 +27,7 @@
 - GitHub
 
 ### 🌌 Pasatiempos & Entretenimiento
--PlayStation
+- PlayStation
 
 
 ---
