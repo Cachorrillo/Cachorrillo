@@ -16,16 +16,14 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
-![Java]
-![Python]
-![C#]
-### 🔧 Control de Versiones & Herramientas
-![Git]
-![GitHub]
+![Java](https://shields.io) ![Python](https://shields.io) ![C#](https://shields.io)
 
+### 🔧 Control de Versiones & Herramientas
+![Git](https://shields.io) ![GitHub](https://shields.io)
 
 ### 🌌 Pasatiempos & Entretenimiento
-![PlayStation]
+![PlayStation](https://shields.io)
+
 
 ---
 
