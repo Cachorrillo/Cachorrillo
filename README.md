@@ -72,4 +72,4 @@ Creo que siempre existe una nueva oportunidad para aprender, experimentar y cons
 
 ### 💌 Construyendo soluciones eficientes, un commit a la vez.
 
-*¡Gracias por pasar por mi pequeño rincón digital!* 💙💗🤍💗💙
+*¡Gracias por pasar por mi pequeño rincón digital!* 🩵🩷🤍🩷🩵
