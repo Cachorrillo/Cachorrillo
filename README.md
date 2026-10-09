@@ -21,8 +21,6 @@
 - C#
 
 ### 🔧 Control de Versiones & Herramientas
-
-### 💻 Lenguajes de Programación
 - Git
 - GitHub
 
